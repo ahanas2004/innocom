@@ -10,6 +10,7 @@ const PORT = process.env.PORT || 3000;
 // Middleware
 app.use(express.json());
 app.use(cors());
+// Serve frontend static files
 app.use(express.static(path.join(__dirname, 'public')));
 
 // In-memory "database" (replace with real DB in production)
