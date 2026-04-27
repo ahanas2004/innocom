@@ -1,5 +1,5 @@
 {
-    "name": "mood-tracker",
+    "name": "innocom",
     "version": "1.0.0",
     "description": "Personalized Mood Tracker and Activity Suggestion Platform",
     "main": "server.js",
