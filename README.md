@@ -23,3 +23,6 @@ Innocom is a platform designed to streamline communication and collaboration.
 npm install
 npm start
 ```
+
+
+---\n*Last updated: 2026-04-27*
